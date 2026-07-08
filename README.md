@@ -1,7 +1,7 @@
-Task 01: Data Distribution Visualization
+ Task 04: Sentiment Analysis Visualization
 
  Description
-This project creates bar charts and histograms to visualize the distribution of categorical and continuous variables using population demographic data.
+This project analyzes and visualizes sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 
  Tools and Libraries Used
 - Python
@@ -10,4 +10,4 @@ This project creates bar charts and histograms to visualize the distribution of 
 - Seaborn
 
  Objective
-To understand data distribution and practice basic data visualization techniques.
+To filter social media data and plot the distribution of positive, negative, and neutral sentiments.
